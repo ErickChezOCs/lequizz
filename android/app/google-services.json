@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "959132017652",
+    "project_id": "lequiz-b996a",
+    "storage_bucket": "lequiz-b996a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959132017652:android:0100b6af12201a80ce4fa1",
+        "android_client_info": {
+          "package_name": "com.example.lequizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959132017652-2sv7d0vqakiq3btkmfmdqgj79atg3krg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aoyHkB_eK-n-9s410HCmdbZX30g5rko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959132017652-2sv7d0vqakiq3btkmfmdqgj79atg3krg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959132017652:android:7ca49287e039fc4bce4fa1",
+        "android_client_info": {
+          "package_name": "example.lequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959132017652-2sv7d0vqakiq3btkmfmdqgj79atg3krg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aoyHkB_eK-n-9s410HCmdbZX30g5rko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959132017652-2sv7d0vqakiq3btkmfmdqgj79atg3krg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
