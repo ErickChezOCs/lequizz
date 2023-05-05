@@ -28,6 +28,7 @@ class _MyQuizState extends State<MyQuiz> {
     Question.name("Tennessee was not one of the 13 original U.S. states.", true),
     Question.name("Homeland is one of the three branches of government.", false),
     Question.name("New-York city was historically known as New Amsterdam.", true),
+    Question.name("Bwa Kalé is a city in the USA.", false),
   ];
 
 
